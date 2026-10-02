@@ -59,3 +59,38 @@ In this dataset, five-star books have the lowest average price, while three-star
 The Exploratory Data Analysis helped in understanding the structure and characteristics of the scraped book dataset. Statistical analysis and visualizations made it easier to identify price patterns, rating distributions and the relationship between book ratings and prices.
 
 The analysis demonstrates how Python, Pandas and Matplotlib can be used to transform raw web-scraped data into meaningful information.
+## Task 3: Data Visualization
+
+### Visualizations Created
+
+The following visualizations were created using Python and Matplotlib:
+
+1. **Price Distribution**
+   - Shows how book prices are distributed across the dataset.
+   - Most books fall within the middle price ranges.
+
+2. **Rating Distribution**
+   - Shows the number of books for each rating from 1 to 5.
+   - This helps understand the overall rating pattern of the books.
+
+3. **Average Price by Rating**
+   - Compares the average price of books across different ratings.
+   - This helps identify whether higher-rated books tend to have different prices.
+
+4. **Price vs Rating**
+   - Shows the relationship between book ratings and prices.
+   - The scatter plot helps identify whether there is a visible relationship between the two variables.
+
+### Tools Used
+
+- Python
+- Pandas
+- Matplotlib
+- CSV Dataset
+
+### Key Insights
+
+- Book prices vary across a wide range.
+- All five rating categories are represented in the dataset.
+- Average prices differ between rating categories.
+- The price-versus-rating visualization helps examine whether rating and price have an observable relationship.
